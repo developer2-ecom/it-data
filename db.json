@@ -1,0 +1,12 @@
+{
+  "devices": [
+    {
+      "id": 1,
+      "room": "roomId",
+      "serial_number": "serialno",
+      "connection_key": "connectionKey",
+      "pairing_key": "ABC000",
+      "name": "deviceName"
+    }
+  ]
+}
