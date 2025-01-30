@@ -2,11 +2,11 @@
   "devices": [
     {
       "id": 1,
-      "room": "roomId",
-      "serial_number": "serialno",
-      "connection_key": "connectionKey",
+      "room": "70aed322-44ac-4587-8ce8-b769ac0e2ff2",
+      "serial_number": "D23100747",
+      "connection_key": "1551DC64",
       "pairing_key": "ABC000",
-      "name": "deviceName"
+      "name": "upright freezer 1 "
     }
   ]
 }
